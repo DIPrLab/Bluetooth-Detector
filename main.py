@@ -36,5 +36,5 @@ async def look_for_devices(time_limit: int, percentage: int, interval: int = 5):
     # devices_of_concern
 
 config = config.get_config()
-known_devices = asyncio.run(tile.get_known_tiles(config["user"]["tile_username"], config["user"]["tile_password"]))
+known_devices = asyncio.run(tile.get_known_tiles(config["user"]))
 asyncio.run(look_for_devices(1, 90))
