@@ -1,0 +1,8 @@
+# This is a TOML document.
+
+[user]
+tile_username = ""
+tile_password = ""
+
+[devices]
+address = []
