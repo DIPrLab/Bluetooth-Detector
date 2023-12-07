@@ -1,7 +1,7 @@
 import tomllib
+from typing import Any
 
-def get_config() -> dict():
-    config = {}
+def get_config() -> dict[str : Any]:
     with open("config.toml", "rb") as file:
-        config = tomllib.load(file)
+        config: dict[str : Any] = tomllib.load(file)
     return config
