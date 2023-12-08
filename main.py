@@ -7,6 +7,7 @@ from pytile.tile import Tile
 
 import config
 import tile
+from map import Geography
 
 
 def time_to_seconds(time_hr: int = 0, time_min: int = 0, time_sec: int = 0) -> int:
@@ -38,4 +39,5 @@ async def look_for_devices(time_limit: int, percentage: int, interval: int = 5):
 
 config: dict[str : str | dict[str:Any]] = config.get_config()
 known_devices: dict[str:Tile] = asyncio.run(tile.get_known_tiles(config["user"]))
+geo = Geography()
 asyncio.run(look_for_devices(1, 90))
