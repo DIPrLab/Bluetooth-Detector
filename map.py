@@ -4,7 +4,7 @@ import googlemaps
 
 
 async def maps() -> None:
-    gmaps: googlemaps.Client = await googlemaps.Client(
+    gmaps: googlemaps.Client = googlemaps.Client(
         key="AIzaSyDlMzYGce3b7aTDSsKNEvdXe7Qf7ouoHMI"
     )
     now: datetime = datetime.now()
