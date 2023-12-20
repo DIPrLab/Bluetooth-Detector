@@ -1,0 +1,183 @@
+Known Device
+9f7a117c1ea5aad3
+
+Dylan’s MacBook Air
+F3F133D5-BABF-1860-14D4-8725B58BA99E
+AdvertisementData(manufacturer_data={76: b'\x10\x06\r\x19s\x90f('}, tx_power=12, rssi=-52)
+{}
+
+None
+49948741-2030-3A17-618E-54C6E4ED5F75
+AdvertisementData(manufacturer_data={76: b'\t\x08\x13l\n\x00\x00\xc4\x1bX'}, rssi=-52)
+{}
+
+Dylan
+ACC197DD-4FE1-8472-4FC1-113DBFEC8CE1
+AdvertisementData(manufacturer_data={76: b'\x10\x06\x1a\x1e\xcfl\xc2\x97'}, tx_power=11, rssi=-68)
+{}
+
+None
+A36EA62B-7875-B5BC-22E9-1FCF0751B3EE
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x02'}, rssi=-69)
+{}
+
+None
+355FA5A9-3C35-0892-5D8E-2F9A26F9FDF4
+AdvertisementData(manufacturer_data={76: b'\x10\x061\x1e]\xfc@\n'}, tx_power=12, rssi=-64)
+{}
+
+None
+25159E0E-E35D-AD75-1CE9-8B9F64C8DB2F
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x00'}, rssi=-66)
+{}
+
+Dylan’s MacBook Air
+F3F133D5-BABF-1860-14D4-8725B58BA99E
+AdvertisementData(manufacturer_data={76: b'\x10\x06\r\x19s\x90f('}, tx_power=12, rssi=-51)
+{}
+
+None
+355FA5A9-3C35-0892-5D8E-2F9A26F9FDF4
+AdvertisementData(manufacturer_data={76: b'\x10\x061\x1e]\xfc@\n'}, tx_power=12, rssi=-52)
+{}
+
+None
+25159E0E-E35D-AD75-1CE9-8B9F64C8DB2F
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x00'}, rssi=-57)
+{}
+
+None
+49948741-2030-3A17-618E-54C6E4ED5F75
+AdvertisementData(manufacturer_data={76: b'\t\x08\x13l\n\x00\x00\xc4\x1bX'}, rssi=-58)
+{}
+
+Dylan
+ACC197DD-4FE1-8472-4FC1-113DBFEC8CE1
+AdvertisementData(manufacturer_data={76: b'\x10\x06\x1a\x1e\xcfl\xc2\x97'}, tx_power=11, rssi=-52)
+{}
+
+None
+50C0EFA4-D28C-5248-1EA4-2413C7E3CB6F
+AdvertisementData(manufacturer_data={76: b'\x16\x08\x00\xbb3\xfd\xd1\x08d7'}, rssi=-57)
+{}
+
+None
+25159E0E-E35D-AD75-1CE9-8B9F64C8DB2F
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x00'}, rssi=-68)
+{}
+
+None
+355FA5A9-3C35-0892-5D8E-2F9A26F9FDF4
+AdvertisementData(manufacturer_data={76: b'\x10\x061\x1e]\xfc@\n'}, tx_power=12, rssi=-60)
+{}
+
+None
+35C59F98-F932-4AB3-5EB8-B1D8D54289CD
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x03'}, rssi=-52)
+{}
+
+None
+49948741-2030-3A17-618E-54C6E4ED5F75
+AdvertisementData(manufacturer_data={76: b'\t\x08\x13l\n\x00\x00\xc4\x1bX'}, rssi=-54)
+{}
+
+Dylan’s MacBook Air
+F3F133D5-BABF-1860-14D4-8725B58BA99E
+AdvertisementData(manufacturer_data={76: b'\x10\x06\r\x19s\x90f('}, tx_power=12, rssi=-53)
+{}
+
+None
+49948741-2030-3A17-618E-54C6E4ED5F75
+AdvertisementData(manufacturer_data={76: b'\t\x08\x13l\n\x00\x00\xc4\x1bX'}, rssi=-54)
+{}
+
+Dylan
+ACC197DD-4FE1-8472-4FC1-113DBFEC8CE1
+AdvertisementData(manufacturer_data={76: b'\x10\x06\x1a\x1e\xcfl\xc2\x97'}, tx_power=11, rssi=-64)
+{}
+
+None
+355FA5A9-3C35-0892-5D8E-2F9A26F9FDF4
+AdvertisementData(manufacturer_data={76: b'\x10\x061\x1e]\xfc@\n'}, tx_power=12, rssi=-52)
+{}
+
+Dylan’s MacBook Air
+F3F133D5-BABF-1860-14D4-8725B58BA99E
+AdvertisementData(manufacturer_data={76: b'\x10\x06\r\x19s\x90f('}, tx_power=12, rssi=-51)
+{}
+
+None
+35C59F98-F932-4AB3-5EB8-B1D8D54289CD
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x03'}, rssi=-52)
+{}
+
+None
+A36EA62B-7875-B5BC-22E9-1FCF0751B3EE
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x02'}, rssi=-52)
+{}
+
+None
+49948741-2030-3A17-618E-54C6E4ED5F75
+AdvertisementData(manufacturer_data={76: b'\t\x08\x13l\n\x00\x00\xc4\x1bX'}, rssi=-51)
+{}
+
+Dylan’s MacBook Air
+F3F133D5-BABF-1860-14D4-8725B58BA99E
+AdvertisementData(manufacturer_data={76: b'\x10\x06\r\x19s\x90f('}, tx_power=12, rssi=-51)
+{}
+
+None
+355FA5A9-3C35-0892-5D8E-2F9A26F9FDF4
+AdvertisementData(manufacturer_data={76: b'\x10\x061\x1e]\xfc@\x0e'}, tx_power=12, rssi=-60)
+{}
+
+Dylan
+ACC197DD-4FE1-8472-4FC1-113DBFEC8CE1
+AdvertisementData(manufacturer_data={76: b'\x10\x06\x1a\x1e\xcfl\xc2\x97'}, tx_power=11, rssi=-58)
+{}
+
+None
+A36EA62B-7875-B5BC-22E9-1FCF0751B3EE
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x02'}, rssi=-44)
+{}
+
+None
+35C59F98-F932-4AB3-5EB8-B1D8D54289CD
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x03'}, rssi=-51)
+{}
+
+None
+25159E0E-E35D-AD75-1CE9-8B9F64C8DB2F
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x00'}, rssi=-56)
+{}
+
+None
+27FC8049-FCAB-3894-E1F9-A54A8FDF2E5F
+AdvertisementData(service_data={'0000feed-0000-1000-8000-00805f9b34fb': b'\x02\x00\x08\x92\x0b\x91h1\xe9\xe7'}, service_uuids=['0000feed-0000-1000-8000-00805f9b34fb'], rssi=-66)
+{'0000feed-0000-1000-8000-00805f9b34fb': b'\x02\x00\x08\x92\x0b\x91h1\xe9\xe7'}
+
+Dylan
+ACC197DD-4FE1-8472-4FC1-113DBFEC8CE1
+AdvertisementData(manufacturer_data={76: b'\x10\x06\x1a\x1e\xcfl\xc2\x97'}, tx_power=11, rssi=-53)
+{}
+
+None
+49948741-2030-3A17-618E-54C6E4ED5F75
+AdvertisementData(manufacturer_data={76: b'\t\x08\x13l\n\x00\x00\xc4\x1bX'}, rssi=-52)
+{}
+
+None
+25159E0E-E35D-AD75-1CE9-8B9F64C8DB2F
+AdvertisementData(manufacturer_data={76: b'\x12\x02\x00\x00'}, rssi=-62)
+{}
+
+Dylan’s MacBook Air
+F3F133D5-BABF-1860-14D4-8725B58BA99E
+AdvertisementData(manufacturer_data={76: b'\x10\x06\r\x19s\x90f('}, tx_power=12, rssi=-51)
+{}
+
+None
+355FA5A9-3C35-0892-5D8E-2F9A26F9FDF4
+AdvertisementData(manufacturer_data={76: b'\x10\x061\x1e]\xfc@\n'}, tx_power=12, rssi=-56)
+{}
+

@@ -1,7 +1,7 @@
 from datetime import datetime
 from typing import Any
 import googlemaps
-import geocoder
+# import geocoder
 
 
 class Geography:
@@ -15,6 +15,6 @@ class Geography:
             "", "", mode="transit", departure_time=now
         )
 
-    def get_user_location(self) -> dict[str:Any]:
-        geo: dict[str:Any] = geocoder.ip("me")
-        return geo
+    # def get_user_location(self) -> dict[str:Any]:
+    #     geo: dict[str:Any] = geocoder.ip("me")
+    #     return geo

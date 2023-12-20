@@ -20,7 +20,7 @@ class Scanner:
     async def look_for_devices(
         time_limit: int, percentage: int, interval: int = 5
     ) -> list[ScanData]:
-        result: list[BLEDevice] = list()
+        result: list[ScanData] = list()
         start_time: float = default_timer()
 
         # Scan for devices (within given time frame) and add to list, divided by interval
@@ -28,6 +28,6 @@ class Scanner:
             scan_result: ScanMetadata = await bleak.BleakScanner.discover(
                 timeout=interval, return_adv=True
             )
-            result.append(scan_result)
+            result.append(ScanData(scan_result))
 
         return result

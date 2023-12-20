@@ -1,0 +1,36 @@
+Known Device
+9f7a117c1ea5aad3
+
+Dylan’s MacBook Air
+F3F133D5-BABF-1860-14D4-8725B58BA99E
+AdvertisementData(manufacturer_data={76: b'\x10\x06\x05\x194\x03\xa6H'}, tx_power=12, rssi=-52)
+{}
+(<CBPeripheral: 0x1029046d0, identifier = F3F133D5-BABF-1860-14D4-8725B58BA99E, name = Dylan’s MacBook Air, mtu = 0, {
+    kCBAdvDataIsConnectable = 1;
+    kCBAdvDataManufacturerData = {length = 10, bytes = 0x4c00100605193403a648};
+    kCBAdvDataTxPowerLevel = 12;
+})
+
+None
+27FC8049-FCAB-3894-E1F9-A54A8FDF2E5F
+AdvertisementData(service_data={'0000feed-0000-1000-8000-00805f9b34fb': b'\x02\x00h\x7fZ?\xea\xc5\xaf\xf7'}, service_uuids=['0000feed-0000-1000-8000-00805f9b34fb'], rssi=-65)
+{'0000feed-0000-1000-8000-00805f9b34fb': b'\x02\x00h\x7fZ?\xea\xc5\xaf\xf7'}
+(<CBPeripheral: 0x112304bf0, identifier = 27FC8049-FCAB-3894-E1F9-A54A8FDF2E5F, name = (null), mtu = 0, {
+    kCBAdvDataIsConnectable = 1;
+    kCBAdvDataServiceData =     {
+        FEED = {length = 10, bytes = 0x0200687f5a3feac5aff7};
+    };
+    kCBAdvDataServiceUUIDs =     (
+        FEED
+    );
+})
+
+Dylan
+ACC197DD-4FE1-8472-4FC1-113DBFEC8CE1
+AdvertisementData(manufacturer_data={76: b'\x10\x06\x12\x1e}\x8a\x96\xcc'}, tx_power=11, rssi=-52)
+{}
+(<CBPeripheral: 0x102905be0, identifier = ACC197DD-4FE1-8472-4FC1-113DBFEC8CE1, name = Dylan, mtu = 0, {
+    kCBAdvDataIsConnectable = 1;
+    kCBAdvDataManufacturerData = {length = 10, bytes = 0x4c001006121e7d8a96cc};
+    kCBAdvDataTxPowerLevel = 11;
+})
